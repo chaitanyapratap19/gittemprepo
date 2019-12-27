@@ -1,0 +1,1 @@
+totally new text added in b1 branch in master2.txt
