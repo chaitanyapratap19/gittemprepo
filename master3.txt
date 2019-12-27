@@ -1,1 +1,1 @@
-ia  am file master3.txt created in b1 branch
+resolsved merge conflict of master3.txt
