@@ -1,1 +1,1 @@
-i am master1.txt created in master branch
+this is final master3.txt created aftermerge conflict resolution
