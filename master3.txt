@@ -1,1 +1,1 @@
-ia  am file master3.txt created in b1 branch
+this is final master3.txt created aftermerge conflict resolution
