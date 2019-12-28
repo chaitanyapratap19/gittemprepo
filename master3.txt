@@ -1,4 +1,1 @@
-
 resolsved merge conflict of master3.txt
-this is final master3.txt created aftermerge conflict resolution
-
